@@ -14,7 +14,7 @@ This project is a web scraping tool designed to extract content from online news
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/sam4rano/masakhane_project.git
+git clone https://github.com/sam4rano/scrapper.git
 cd masakhane_project
 pip install -r requirements.txt
 ```
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 Ensure you have the following dependencies installed:
 - [pandas](https://pandas.pydata.org/)
 - [playwright](https://playwright.dev/)
-- [crawl4ai](https://github.com/yourusername/crawl4ai)
+- [crawl4ai](https://github.com/sam4rano/crawl4ai)
 
 ## Usage
 
